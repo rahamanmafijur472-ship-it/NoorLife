@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Crescent Moon -->
+    <path
+        android:fillColor="#E5C158"
+        android:pathData="M 10,3 C 5,5 4,14 11,18 C 6.5,15.5 6.5,8 10,3 Z" />
+    <!-- Lantern -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#0F5132"
+        android:strokeWidth="1.5"
+        android:pathData="M 13.5,8 H 19.5 L 18.5,17 H 14.5 Z" />
+    <path
+        android:fillColor="#E5C158"
+        android:pathData="M 16.5,11.5 A 1 1 0 1 0 16.5 13.5 A 1 1 0 1 0 16.5 11.5" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#0F5132"
+        android:strokeWidth="1.2"
+        android:pathData="M 16.5,3.5 L 16.5,8" />
+</vector>

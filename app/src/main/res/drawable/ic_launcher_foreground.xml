@@ -1,0 +1,72 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Golden Islamic Arch / Dome Frame -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#E5C158"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 32,74 L 32,50 C 32,38 46,26 54,22 C 62,26 76,38 76,50 L 76,74 Z" />
+
+    <!-- Inner Decorative Arch -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#C5A030"
+        android:strokeWidth="1.2"
+        android:pathData="M 36,74 L 36,51 C 36,41 47,31 54,27 C 61,31 72,41 72,51 L 72,74" />
+
+    <!-- Golden Crescent Moon -->
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M 52,34 C 47,34 43,38 43,44 C 43,50 48,54 54,54 C 56.5,54 58.8,53 60.5,51.5 C 57.5,52.2 54.5,51 52.8,48.5 C 51.2,46.2 51.2,43 52.6,40.5 C 53.8,38.5 55.8,37.2 58,37 C 56.2,35.1 54.2,34 52,34 Z" />
+
+    <!-- Radiant 4-Pointed Star -->
+    <path
+        android:fillColor="#FFF4B8"
+        android:pathData="M 60,39.5 L 61.2,41.2 L 63,41.5 L 61.5,42.8 L 61.8,44.5 L 60.2,43.5 L 58.6,44.5 L 59,42.8 L 57.5,41.5 L 59.3,41.2 Z" />
+
+    <!-- Open Holy Quran Book (Base and Left/Right Pages) -->
+    <!-- Left Page -->
+    <path
+        android:fillColor="#FDFBF7"
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="1"
+        android:pathData="M 54,67 C 48,65 38,65 30,68 L 33,56 C 41,53 49,54 54,58 Z" />
+
+    <!-- Right Page -->
+    <path
+        android:fillColor="#F5EFE1"
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="1"
+        android:pathData="M 54,67 C 60,65 70,65 78,68 L 75,56 C 67,53 59,54 54,58 Z" />
+
+    <!-- Quran Spine / Bookstand Rihal Accent -->
+    <path
+        android:fillColor="#E5C158"
+        android:pathData="M 53,58 L 55,58 L 55,73 L 53,73 Z" />
+    <path
+        android:fillColor="#C5A030"
+        android:pathData="M 40,73 L 68,73 L 64,75 L 44,75 Z" />
+
+    <!-- Fine Book Line Details -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#E5C158"
+        android:strokeWidth="0.8"
+        android:pathData="M 37,59 C 43,57 48,58 51,60" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="0.8"
+        android:pathData="M 57,60 C 60,58 65,57 71,59" />
+
+    <!-- Small Noor Glow Dot at Arch Peak -->
+    <path
+        android:fillColor="#FFF4B8"
+        android:pathData="M 54,19.5 A 1.8 1.8 0 1 0 54 23.1 A 1.8 1.8 0 1 0 54 19.5" />
+</vector>

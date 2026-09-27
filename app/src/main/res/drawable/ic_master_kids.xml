@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Smiling Crescent -->
+    <path
+        android:fillColor="#E5C158"
+        android:pathData="M 12,3 C 7,3 3,7 3,12 C 3,17 7,21 12,21 C 14,21 15.8,20.4 17.3,19.3 C 14.2,19.8 11.2,18.4 9.6,15.7 C 8,13 8,9.5 9.8,6.8 C 11.5,4.3 14.5,2.8 17.5,3 C 15.8,3 13.9,3 12,3 Z" />
+    <!-- Kids Playful Star -->
+    <path
+        android:fillColor="#0F5132"
+        android:pathData="M 17.5,6.5 L 18.5,8.8 L 21,9 L 19,10.8 L 19.5,13.2 L 17.5,12 L 15.5,13.2 L 16,10.8 L 14,9 L 16.5,8.8 Z" />
+</vector>
